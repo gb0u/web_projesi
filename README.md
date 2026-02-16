@@ -1,7 +1,19 @@
 # web_projesi
-Test amaçlı açılmış bir proje.
+# Bu proje, kullanıcıların görevlerini yönetmesini sağlayan bir web uygulamasıdır.
 
-Bu proje öğrencilerin günlük yaşamlarını daha kolay hale getirmeyi amaçlar.
-Nükleer füzelerin hedeflerini belirler.
-Otobüs güzergahlarını gösterir.
-Yemek siparişi verebilir.
+## Hedef kullanıcılar
+Öğrenciler
+
+## Temel özellikler
+Kullanıcı kayıt/girişi
+Görev ekleme
+Görev silme
+Görev güncelleme
+
+## Kullanılan teknolojiler.
+CSS, JavaScript, HTML, PHP ve MYSQL kullanmayı hedefler.
+
+## Kurulum
+
+## Canlı link
+Henüz yayınlanmadı.
